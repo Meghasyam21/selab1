@@ -1,3 +1,0 @@
-hello git
-New line added
-Feature work
