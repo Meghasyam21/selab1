@@ -1,0 +1,25 @@
+ID         Name       Subject      Minor  Major  Total  Grade 
+CS1        Meghasyam  SE           35     59     94          O
+CS1        Meghasyam  Cloud        30     55     85         A+
+CS1        Meghasyam  Algo         37     49     86         A+
+CS1        Meghasyam  Virtu        30     50     80          A
+CS1        Meghasyam  DL           22     55     77          A
+Total: 422 Percentage 84.40 CGPA: 8.44
+CS2        Dhanunjay  SE           33     40     73         B+
+CS2        Dhanunjay  Cloud        32     45     77          A
+CS2        Dhanunjay  Algo         29     34     63          C
+CS2        Dhanunjay  Virtu        28     56     84          A
+CS2        Dhanunjay  DL           37     60     97          O
+Total: 394 Percentage 78.80 CGPA: 7.88
+CS3        Sujith     SE           33     56     89         A+
+CS3        Sujith     Cloud        32     56     88         A+
+CS3        Sujith     Algo         32     52     84          A
+CS3        Sujith     Virtu        28     54     82          A
+CS3        Sujith     DL           29     45     74         B+
+Total: 417 Percentage 83.40 CGPA: 8.34
+AI1        Abhilash   SE           38     56     94          O
+AI1        Abhilash   Cloud        34     45     79          A
+AI1        Abhilash   Algo         33     58     91          O
+AI1        Abhilash   Virtu        30     59     89         A+
+AI1        Abhilash   DL           31     56     87         A+
+Total: 440 Percentage 88.00 CGPA: 8.80
